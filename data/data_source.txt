@@ -1,0 +1,11 @@
+Dataset references:
+
+Primary Kaggle reference:
+https://www.kaggle.com/code/yugagrawal95/rfm-analysis/input?select=data.csv
+
+Public Excel mirror used to recreate the included raw CSV:
+https://raw.githubusercontent.com/pplonski/datasets-for-start/refs/heads/master/online-retail/Online-Retail.xlsx
+
+Included project files:
+data/data.csv
+data/cleaned_rfm_customer_segments.csv
