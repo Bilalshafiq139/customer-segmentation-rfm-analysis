@@ -35,10 +35,10 @@ Build a customer segmentation analysis using Recency, Frequency, and Monetary va
 
 The analysis helps marketing and sales teams decide which customers should receive loyalty offers, reactivation campaigns, premium promotions, and product-focused recommendations.
 
-## Portfolio Talking Points
+## Business Deliverables
 
-- Demonstrates end-to-end analytics workflow from raw transaction data to business recommendations.
-- Shows customer segmentation using a widely used marketing analytics method.
-- Includes both Python analysis and Power BI dashboarding.
-- Communicates findings through notebook, dashboard, report, and presentation formats.
-- Connects technical analysis to practical business action.
+- End-to-end analytics workflow from raw transaction data to business recommendations.
+- Customer segmentation using a widely used marketing analytics method.
+- Python analysis and Power BI dashboarding.
+- Findings communicated through notebook, dashboard, report, and presentation formats.
+- Technical analysis connected to practical business action.

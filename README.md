@@ -1,8 +1,8 @@
 # RFM Customer Segmentation Analysis
 
-This project is a portfolio-ready customer analytics case study built with RFM analysis: Recency, Frequency, and Monetary value. It uses online retail transaction data to segment customers, understand purchasing behavior, and recommend practical marketing actions.
+This repository contains a customer analytics workflow built with RFM analysis: Recency, Frequency, and Monetary value. It uses online retail transaction data to segment customers, understand purchasing behavior, and recommend practical marketing actions.
 
-The project includes Python analysis, Power BI dashboarding, a written report, and a presentation deck. It is structured to show both technical execution and business communication.
+The repository includes Python analysis, Power BI dashboarding, a written report, and a presentation deck for communicating customer segmentation results.
 
 ## Executive Summary
 
@@ -157,6 +157,6 @@ The repository includes the raw dataset and the cleaned RFM output so the projec
 
 The final notebook cell regenerates the cleaned output after the analysis is run. Dataset source references are available in `data/data_source.txt`.
 
-## Portfolio Value
+## Business Value
 
-This project demonstrates a complete analytics workflow: data cleaning, feature engineering, customer segmentation, visualization, business interpretation, dashboarding, reporting, and executive-style presentation.
+This analysis supports targeted customer engagement by connecting transaction-level behavior to segment-level marketing actions. It provides a repeatable workflow for data cleaning, RFM scoring, customer segmentation, visualization, reporting, and executive-style presentation.
