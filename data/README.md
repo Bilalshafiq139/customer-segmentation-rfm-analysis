@@ -5,7 +5,7 @@ This folder includes the datasets needed to run and review the project.
 ## Included Files
 
 - `data.csv`: raw online retail transaction dataset used by the notebook.
-- `cleaned_rfm_customer_segments.csv`: cleaned analysis output exported from the notebook after RFM scoring and customer segmentation.
+- `cleaned_rfm_customer_segments.csv`: customer-level RFM output exported from the notebook after RFM scoring and customer segmentation.
 - `data_source.txt`: source references for the dataset.
 
 ## Source

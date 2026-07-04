@@ -45,7 +45,7 @@ These metrics create a practical foundation for loyalty campaigns, reactivation 
 - Presentation deck: `presentation/rfm_analysis_presentation.pptx`
 - Project brief: `docs/project_brief.md`
 - Raw dataset: `data/data.csv`
-- Cleaned RFM output: `data/cleaned_rfm_customer_segments.csv`
+- Customer-level RFM output: `data/cleaned_rfm_customer_segments.csv`
 - Dataset notes: `data/README.md`
 
 ## Methodology
@@ -92,11 +92,8 @@ The notebook identifies practical customer groups, including:
 - Python
 - Pandas
 - NumPy
-- SciPy
 - Matplotlib
 - Seaborn
-- Plotly
-- PrettyTable
 - Power BI
 - Jupyter Notebook
 
@@ -155,7 +152,7 @@ python -m jupyter nbconvert --to notebook --execute notebooks/rfm_customer_segme
 The repository includes the raw dataset and the cleaned RFM output so the project can be cloned and run without extra download steps.
 
 - Raw input: `data/data.csv`
-- Cleaned output: `data/cleaned_rfm_customer_segments.csv`
+- Customer-level RFM output: `data/cleaned_rfm_customer_segments.csv`
 
 The final notebook cell regenerates the cleaned output after the analysis is run. Dataset source references are available in `data/data_source.txt`.
 

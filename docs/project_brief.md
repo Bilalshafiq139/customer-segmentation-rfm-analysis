@@ -26,11 +26,8 @@ Build a customer segmentation analysis using Recency, Frequency, and Monetary va
 - Python
 - Pandas
 - NumPy
-- SciPy
 - Matplotlib
 - Seaborn
-- Plotly
-- PrettyTable
 - Power BI
 - Jupyter Notebook
 
