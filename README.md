@@ -72,11 +72,12 @@ The notebook identifies practical customer groups, including:
 
 ## Key Insights
 
-- High-value customers are concentrated in major markets, especially the United Kingdom.
-- Potential loyal customers show repeat-purchase behavior and are strong candidates for retention campaigns.
-- Big spenders contribute meaningfully to revenue and can be targeted with premium offers.
-- Recent customers should receive follow-up campaigns that encourage a second purchase.
-- Product-level patterns help identify which items are most relevant for each segment.
+- The analysis identified 4,338 customers across 6 RFM-based customer segments.
+- High-Value Customers represent 11.0% of customers but generate 49.3% of total monetary value.
+- Potential Loyal Customers represent 23.9% of customers and contribute 24.6% of total monetary value, making them strong retention candidates.
+- Churn Risk Customers are the largest segment at 28.8% of customers but contribute only 4.0% of total monetary value.
+- The United Kingdom is the largest market, representing 90.4% of customers and 82.0% of total monetary value.
+- Big Spenders account for 5.4% of customers and 10.9% of total monetary value, making them suitable for premium offers.
 
 ## Recommendations
 
